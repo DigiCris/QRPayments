@@ -1,0 +1,17 @@
+{
+  "name": "qrpayments",
+  "version": "1.0.0",
+  "main": "qr_payment.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3"
+  }
+}
